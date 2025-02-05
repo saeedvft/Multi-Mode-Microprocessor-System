@@ -1,6 +1,6 @@
 **Project Documentation: Multi-Mode Microprocessor System**
 
-https://github.com/saeedvft/Multi-Mode-Microprocessor-System/blob/main/mode_b.png
+![Proteus_Pic](https://github.com/saeedvft/Multi-Mode-Microprocessor-System/blob/main/mode_b.png)
 ---
 
 ### **1. Introduction**
